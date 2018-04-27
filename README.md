@@ -2,10 +2,10 @@
 
 > Generalised code review checklist for below topics or technologies.
 
-###### Requirement-Review
-###### Functional-Review
-###### Java-J2EE
-###### Android
+ - Requirement-Review
+ - Functional-Review
+ - Java-J2EE
+ - Android
 
 ### Author
 
